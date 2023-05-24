@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contohform</string>
+    <string name="Masukkanteks">Masukkan teks</string>
+    <string name="Submit">Submit</string>
+</resources>
